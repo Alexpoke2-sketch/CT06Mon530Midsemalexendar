@@ -12,9 +12,9 @@ function draw(){
     fill("black");
     stroke("red");
     strokeWeight(10);
-    rect(250,160,75,75);
+    triangle(275, 235, 325, 160, 375, 235);
     fill("black");
     stroke("red");
     strokeWeight(10);
-    triangle(400, 235, 450, 160, 500, 235); 
+     rect(450, 160, 75, 75);
 }
