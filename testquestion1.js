@@ -16,5 +16,5 @@ function draw(){
     fill("black");
     stroke("red");
     strokeWeight(10);
-    triangle(350,350,450,450,1,250)
+    triangle(350,350,450,450,150,150)
 }
