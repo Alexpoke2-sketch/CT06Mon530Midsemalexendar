@@ -12,7 +12,7 @@ function draw(){
     fill("black");
     stroke("red");
     strokeWeight(10);
-    rect(100,200,100,100);
+    rect(100,200,75,100);
     fill("black");
     stroke("red");
     strokeWeight(10);
